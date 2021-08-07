@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Patel</h1>
-<h3 align="center">I am a noob trying to learn coding. Hopefully I will learn it soob</h3>
+<h3 align="center">I am a noob trying to learn coding. Hopefully I will learn it soon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kp296ig&label=Profile%20views&color=0e75b6&style=flat" alt="kp296ig" /> </p>
 
